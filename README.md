@@ -26,3 +26,5 @@ The Arduino was encased in a waterproof project box mounted to the side of the p
 
 
 ## Flaws and To-Do
+
+The biggest 2 are make sure the power supply of the Arduino isn't being overloaded and find a better way to control the mains voltage. 
