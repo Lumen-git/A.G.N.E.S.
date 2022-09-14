@@ -28,3 +28,11 @@ The Arduino was encased in a waterproof project box mounted to the side of the p
 ## Flaws and To-Do
 
 The biggest 2 are make sure the power supply of the Arduino isn't being overloaded and find a better way to control the mains voltage. 
+
+Understanding electrical engineering would also be a good start.
+
+FOr version 2, I intend on using a WiFi enabled microcontroller to allow the user to monitor stats on a local website, as well as see watering and soil moisture history. This would also allow for a more refined way for the user to set variables. 
+
+## Final notes
+
+Working on A.G.N.E.S. during college and having to juggle lack of time, materials, and space, its far rom perfect. Hopefully this is a good jumping off point for version 2 which will more closely resemble a more formal project. Until then, all the code and designs are open source and ready for builds and improvements!
