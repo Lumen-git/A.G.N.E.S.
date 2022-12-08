@@ -31,7 +31,7 @@ The biggest 2 are make sure the power supply of the Arduino isn't being overload
 
 Understanding electrical engineering would also be a good start.
 
-FOr version 2, I intend on using a WiFi enabled microcontroller to allow the user to monitor stats on a local website, as well as see watering and soil moisture history. This would also allow for a more refined way for the user to set variables. 
+For version 2, I intend on using a WiFi enabled microcontroller to allow the user to monitor stats on a local website, as well as see watering and soil moisture history. This would also allow for a more refined way for the user to set variables. 
 
 ## Final notes
 
